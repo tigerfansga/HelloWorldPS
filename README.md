@@ -1,6 +1,6 @@
 # Hello World PowerShell Module
 
-[![Build Status](https://dev.azure.com/mark0746/HelloWorldPS/_apis/build/status/tigerfansga.HelloWorldPS)](https://dev.azure.com/mark0746/HelloWorldPS/_build/latest?definitionId=4)
+[![Build Status](https://dev.azure.com/mark0746/GogsPS/_apis/build/status/tigerfansga.HelloWorldPS)](https://dev.azure.com/mark0746/GogsPS/_build/latest?definitionId=5)
 
 A Hello World PowerShell module to demonstrate CI/CD with Azure DevOps
 
